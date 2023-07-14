@@ -10,10 +10,10 @@ I'm excited to expand my skills in software development, specifically MLOps.
 
 ## 🚀 Projects
 
-- [sequence-modelling](https://github.com/nbhushan/sequence-modelling): numerically optimised sequence modelling in Python 🐍
-- [causal-discovery](https://github.com/nbhushan/causal-discovery): benchmarking causal discovery methods 📊
-- [data-science slidedecks](https://github.com/nbhushan/data-science-slidedecks/tree/main/Explainable%20AI): jargon free data science decks 👨‍🏫
-- [python-app-template](https://github.com/nbhushan/python-poetry-CI-template): a poetry based python project template with continous integration 🔨
+- [sequence-modelling](https://github.com/nbhushan/sequence-modelling): 🐍 numerically optimised sequence modelling in Python 
+- [causal-discovery](https://github.com/nbhushan/causal-discovery): 📊 benchmarking causal discovery methods 
+- [data-science slidedecks](https://github.com/nbhushan/data-science-slidedecks/tree/main/Explainable%20AI): 👨‍🏫 jargon free data science decks 
+- [python-app-template](https://github.com/nbhushan/python-poetry-CI-template): 🔨 a poetry based python project template with continous integration 
   
 Feel free to explore more projects in my repo and provide any feedback or suggestions.
 
