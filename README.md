@@ -13,7 +13,8 @@ I'm excited to expand my skills in software development, specifically MLOps.
 - [sequence-modelling](https://github.com/nbhushan/sequence-modelling) 🐍 numerically optimised sequence modelling in Python 
 - [causal-discovery](https://github.com/nbhushan/causal-discovery) 📊 benchmarking causal discovery methods 
 - [data-science slidedecks](https://github.com/nbhushan/data-science-slidedecks/tree/main/Explainable%20AI) 👨‍🏫 jargon free data science decks 
-- [python-app-template](https://github.com/nbhushan/python-poetry-CI-template) 🔨 a poetry based Python project template with continous integration 
+- [python-app-template](https://github.com/nbhushan/python-poetry-CI-template) 🔨 a poetry based Python project template with continous integration
+- [pandas and streamlit](https://github.com/nbhushan/banijay-streamlit-app) 🐼 a simple streamlit app to engage a stakeholder
   
 Feel free to explore more projects in my repo and provide any feedback or suggestions.
 
