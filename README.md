@@ -8,7 +8,7 @@ When not working, I enjoy bouldering and planning holidays. Here you'll find som
 I'm currently focused on developing e-learning platforms based on GenAI that facilitate hyper-personalized learning paths in the fields of AI and data science.
 I'm excited to expand my skills in software development, specifically MLOps.
 
-## 🚀 Projects
+## ⭐ Projects
 
 - [sequence-modelling](https://github.com/nbhushan/sequence-modelling) 🐍 numerically optimised sequence modelling in Python 
 - [causal-discovery](https://github.com/nbhushan/causal-discovery) 📊 benchmarking causal discovery methods 
