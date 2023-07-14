@@ -35,5 +35,5 @@ Feel free to reach out to me through the following channels:
 - Email: [bhushan.nitin@posteo.net](mailto:bhushan.nitin@posteo.net)
 - LinkedIn: [nbhushan](https://www.linkedin.com/in/bhushannitin/)
 
-Looking forward to connecting and collaborating with like-minded individuals. Let's create something amazing together!
+Looking forward to connecting and collaborating with like-minded individuals. Let's create something amazing together! 🚀
 
