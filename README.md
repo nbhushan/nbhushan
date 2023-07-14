@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-Welcome to my GitHub profile! I'm nitin, and I'm passionate about data science education, particularly adult education and e-learning platforms! 
+Welcome to my GitHub profile! I'm nitin, and I'm passionate about data science education, particularly upskilling domain experts and e-learning platforms! 
 When not working, I enjoy bouldering and planning holidays. Here you'll find some of my projects and contributions.
 
 ## 🌱 Current Focus
