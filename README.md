@@ -1,6 +1,6 @@
 ## 👋 Hi there 
 
-Welcome to my GitHub profile! I'm nitin, and I'm passionate about causal inference and data science education, particularly upskilling domain experts and e-learning platforms! When not working, I enjoy bouldering and planning holidays. Here you'll find some of my projects and contributions. I've worked in the past for organisations ranging from education (University of Groningen, Breda University of applied sciences), manufacturing (Bosch), and AI (Naver Labs-XRCE).
+Welcome to my GitHub profile! I'm nitin, and I'm interested in causal inference and data science education, particularly upskilling domain experts and e-learning platforms! When not working, I enjoy bouldering and planning holidays. Here you'll find some of my projects and contributions. I've worked in the past for organisations ranging from education (University of Groningen, Breda University of applied sciences), manufacturing (Bosch), and AI (Naver Labs-XRCE).
 
 ## 🌱 Current Focus
 
