@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm nitin, and I'm interested in causal inference 
 
 ## 🌱 Current Focus
 
-I'm currently exploring the use of GenAI to facilitate hyper-personalized learning paths in the fields of AI and data science using @llamaindex and @llamacpp. Further, 
+I'm currently exploring the use of GenAI to facilitate hyper-personalized learning paths in the fields of AI and data science. Further, 
 I'm excited to expand my skills in software development, specifically MLOps.
 
 ## ⭐ Projects
